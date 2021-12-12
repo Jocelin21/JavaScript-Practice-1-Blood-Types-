@@ -1,3 +1,3 @@
-# JavaScript-Practice-1-Blood-Types-
+# Jocelin_S9Forum_Blood-Types
 Name = Jocelin Wilson <br />
 Class = L1AC
