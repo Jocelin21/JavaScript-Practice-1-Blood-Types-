@@ -20,7 +20,7 @@ function canGiveBlood(donor,recipient){
     else if (donor === "O+" && (recipient === "O+"||"A+"||"B+"||"AB+")){
         console.log("True");
     }
-    else if (donor === "O-" && (receive === "AB+"||"AB-"||"A+"||"A-"||"B+"||"B-"||"O+"||"O-")){
+    else if (donor === "O-" && (recipient === "AB+"||"AB-"||"A+"||"A-"||"B+"||"B-"||"O+"||"O-")){
         console.log("True");
     }
     else{
